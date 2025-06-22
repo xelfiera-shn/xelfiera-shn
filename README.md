@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Ahmet ŞAHİN</h1>
 <h3 align="center">Electrical & Electronics Engineer | Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xelfiera-shn&label=Profile%20views&color=0e75b6&style=flat-square" alt="xelfiera-shn" /> </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -20,6 +18,5 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xelfiera-shn&show_icons=true&theme=dark&locale=en&layout=compact" alt="xelfiera-shn" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xelfiera-shn&show_icons=true&theme=dark&locale=en" alt="xelfiera-shn" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xelfiera-shn&show_icons=true&theme=dark&locale=en&layout=compact" alt="xelfiera-shn" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xelfiera-shn&show_icons=true&theme=dark&locale=en" alt="xelfiera-shn" /></p>
