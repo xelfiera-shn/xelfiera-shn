@@ -7,7 +7,7 @@ markdown<h1 align="center">Hi, I'm Ahmet ŞAHİN</h1>
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xelfiera-shn&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xelfiera-shn&show_icons=true&theme=one_dark_pro&hide_border=true" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xelfiera-shn&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xelfiera-shn&layout=compact&theme=one_dark_pro&hide_border=true" />
 </p>
