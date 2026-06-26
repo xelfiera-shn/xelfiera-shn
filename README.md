@@ -1,4 +1,4 @@
-markdown<h1 align="center">Hi, I'm Ahmet ŞAHİN</h1>
+<h1 align="center">Hi, I'm Ahmet ŞAHİN</h1>
 <h3 align="center">Electrical & Electronics Engineer | Software Developer</h3>
 
 ## Languages and Tools
