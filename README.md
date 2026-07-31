@@ -2,7 +2,7 @@
 <h3 align="center">Electrical & Electronics Engineer | Software Developer</h3>
 
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,cs,dotnet,python,git,linux,opencv,arduino,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,linux,git,cmake,dotnet,opencv,arduino,unity)](https://skillicons.dev)
 
 ## GitHub Stats
 
